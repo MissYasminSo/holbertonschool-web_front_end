@@ -28,7 +28,7 @@
 }
 
 *, *:before, *:after{
-    box-sizing: boarder-box;
+	box-sizing: border-box;
 }
 
 html {
