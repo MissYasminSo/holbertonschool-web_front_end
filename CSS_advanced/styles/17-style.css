@@ -96,8 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .section-footer {
     padding: var(--section-footer-padding);
-    margin-left: var(--section-footer-align);
-    margin-right: var(--section-footer-align);
+    text-align: var(--section-footer-align);
 }
 
 .section-title {
